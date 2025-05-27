@@ -29,6 +29,8 @@ body:
           required: true
         - label: I am using the latest version of Open WebUI.
           required: true
+  description: Confirm that you’ve checked for existing reports before submitting a new one.
+      options:
 
   - type: dropdown
     id: installation-method
